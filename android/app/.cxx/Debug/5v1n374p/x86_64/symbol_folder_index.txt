@@ -1,0 +1,1 @@
+/Users/azamatnazarbekov/AndroidStudioProjects/example_test/build/app/intermediates/cxx/Debug/5v1n374p/obj/x86_64
